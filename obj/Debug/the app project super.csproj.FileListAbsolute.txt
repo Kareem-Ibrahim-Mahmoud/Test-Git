@@ -1,0 +1,12 @@
+D:\c sharp prog\the app project super\bin\Debug\the app project super.exe.config
+D:\c sharp prog\the app project super\bin\Debug\the app project super.exe
+D:\c sharp prog\the app project super\bin\Debug\the app project super.pdb
+D:\c sharp prog\the app project super\obj\Debug\the app project super.csproj.AssemblyReference.cache
+D:\c sharp prog\the app project super\obj\Debug\the app project super.csproj.SuggestedBindingRedirects.cache
+D:\c sharp prog\the app project super\obj\Debug\the_app_project_super.Properties.Resources.resources
+D:\c sharp prog\the app project super\obj\Debug\the app project super.csproj.GenerateResource.cache
+D:\c sharp prog\the app project super\obj\Debug\the app project super.csproj.CoreCompileInputs.cache
+D:\c sharp prog\the app project super\obj\Debug\the app project super.exe
+D:\c sharp prog\the app project super\obj\Debug\the app project super.pdb
+D:\c sharp prog\the app project super\obj\Debug\the_app_project_super.Form1.resources
+D:\c sharp prog\the app project super\obj\Debug\the_app_project_super.Form2.resources
